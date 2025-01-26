@@ -10,7 +10,7 @@ To access the built-in H2 database manager console, follow these steps:
 
 3. In the login page, use the following details:
 
-JDBC URL: jdbc:h2:file:./garage-manager-db
-Username: sa
-Password: password
-Click on the "Connect" button to access the H2 database manager console.
+- JDBC URL: jdbc:h2:file:./garage-manager-db
+- Username: sa
+- Password: password
+- Click on the "Connect" button to access the H2 database manager console.
